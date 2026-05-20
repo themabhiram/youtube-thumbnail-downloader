@@ -1,0 +1,3 @@
+Python latest version.
+
+pip install requests colorama
